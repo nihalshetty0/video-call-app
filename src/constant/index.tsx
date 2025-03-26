@@ -1,0 +1,23 @@
+export const ROOM_STATE_TYPE = {
+  VALID: "VALID",
+  LEFT_ROOM: "LEFT_ROOM",
+  NETWORK_ERROR: "NETWORK_ERROR",
+  INVALID_CODE: "INVALID_CODE",
+}
+
+// ------- PEER LAYOUT CONSTANTS -------
+
+const MIN_TILE_WIDTH = 200
+const ASPECT_RATIO = 16 / 9
+
+export const LAYOUT_CONSTANTS = {
+  SPACING: 12,
+  MIN_TILE_WIDTH,
+  MIN_TILE_HEIGHT: MIN_TILE_WIDTH * (1 / ASPECT_RATIO),
+  ASPECT_RATIO,
+  MOBILE_BREAKPOINT: 600,
+  MAX_MOBILE_PEERS: 4,
+  MAX_DESKTOP_PEERS: 8,
+} as const
+
+// ---------------------------------
