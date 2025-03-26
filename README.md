@@ -37,7 +37,7 @@ Built on top of the reliable 100ms SDK, this template combines enterprise-grade 
   - Visual feedback during connection events
   - Graceful error handling with user-friendly messages
 
-# Demo Videos (Click to Play)
+# Demo Videos
 
 ### 🎥 Audio and Video Permission Flow
 
