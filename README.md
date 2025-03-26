@@ -41,7 +41,9 @@ Built on top of the reliable 100ms SDK, this template combines enterprise-grade 
 
 ### 🎥 Audio and Video Permission Flow
 
-[![Video thumbnail](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991187/audio-video-control_iby7ow.jpg)](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991187/audio-video-control_iby7ow.mp4)
+<a href="https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991187/audio-video-control_iby7ow.mp4" target="_blank">
+  <img src="https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991187/audio-video-control_iby7ow.jpg" alt="Video thumbnail">
+</a>
 ▶️ Click to watch how the app handles audio/video permissions
 
 ### 🎥 Camera and Audio Settings
