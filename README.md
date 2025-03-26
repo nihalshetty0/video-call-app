@@ -41,30 +41,24 @@ Built on top of the reliable 100ms SDK, this template combines enterprise-grade 
 
 ### 🎥 Audio and Video Permission Flow
 
-<a href="https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991187/audio-video-control_iby7ow.mp4" target="_blank">
-  <img src="https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991187/audio-video-control_iby7ow.jpg" alt="Video thumbnail">
-</a>
-▶️ Click to watch how the app handles audio/video permissions
+https://github.com/user-attachments/assets/f52324fd-6403-462e-9e89-33c2d2556748
+
 
 ### 🎥 Camera and Audio Settings
 
-[![Video thumbnail](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991174/camera-audio_rprkhh.jpg)](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991174/camera-audio_rprkhh.mp4)
-▶️ Click to see device settings in action
+https://github.com/user-attachments/assets/768a9e84-adae-41cc-8675-fabf9ddf05ec
 
 ### 🎥 Dynamic Tile Layout
 
-[![Video thumbnail](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991186/dynamic_layout-1742988458631_tbfi1w.jpg)](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991186/dynamic_layout-1742988458631_tbfi1w.mp4)
-▶️ Click to see how tiles automatically adjust for optimal viewing
+https://github.com/user-attachments/assets/5b372272-7b98-4875-9125-cc4fe35302c6
 
 ### 🎥 Responsive Design
 
-[![Video thumbnail](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991176/responsive-refined-1742989726504_o5cqq2.jpg)](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991176/responsive-refined-1742989726504_o5cqq2.mp4)
-▶️ Click to watch the mobile-friendly responsive design in action
+https://github.com/user-attachments/assets/9c933972-a1dd-4c51-a4e9-f92599a0c957
 
 ### 🎥 Real-time Messaging
 
-[![Video thumbnail](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991156/messaging-1742990864082_c9umb0.jpg)](https://res.cloudinary.com/dw6lg2jup/video/upload/v1742991156/messaging-1742990864082_c9umb0.mp4)
-▶️ Click to see the integrated chat system with notifications
+https://github.com/user-attachments/assets/9c1d1912-5b8b-4d0a-ade9-e16f934cb0af
 
 ## Tech Stack
 
