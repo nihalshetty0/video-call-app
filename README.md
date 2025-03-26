@@ -1,10 +1,26 @@
 # Video Call App Template
 
-Welcome to the Video Call App Template! This project provides a robust foundation for building video conferencing applications, powered by the battle-tested 100ms SDK. Built with modern technologies and best practices, this template leverages 100ms's enterprise-grade infrastructure to ensure reliable, low-latency video conferencing at scale.
+This template is a production-ready foundation focused on handling the most critical and error-prone aspects of video conferencing apps. Heavily inspired by Google Meet's battle-tested UX patterns, this template pays special attention to common failure points like device permissions, network issues, and audio/video setup.
+
+## Why This Template?
+
+- **Battle-Tested UX Patterns**: Implements Google Meet-inspired solutions for common video call frustrations
+- **Foolproof Device Handling**:
+  - Guided permission flows that actually make sense to users
+  - Clear troubleshooting steps when things go wrong
+  - Intuitive device testing and switching
+- **User-First Error Prevention**:
+  - Pre-join device testing to catch issues early
+  - Clear visual feedback for network and permission states
+  - Helpful recovery flows when permissions are denied
+- **Built for Customization**:
+  - Built using shadcn/ui components for easy customization
+  - Modular architecture that can be extended for any use case whether you're building a telemedicine app, virtual classroom, or remote workspace
+
+Built on top of the reliable 100ms SDK, this template combines enterprise-grade infrastructure with carefully crafted user experiences to handle the trickiest parts of video conferencing apps.
 
 ## Key Features
 
-- **User Experience**: Implements essential UX patterns for seamless video conferencing.
 - **Video/Audio Controls**: Ready-to-use controls for managing video and audio.
   - Robust permission handling with visual guides
   - Pre-join audio/video device testing
