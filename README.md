@@ -4,7 +4,7 @@ This template is a production-ready foundation focused on handling the most crit
 
 ## Why This Template?
 
-- **Battle-Tested UX Patterns**: Implements Google Meet-inspired solutions for common video call frustrations
+- **Battle-Tested UX Patterns**: Implements _Google Meet-inspired solutions_ for common video call frustrations
 - **Foolproof Device Handling**:
   - Guided permission flows that actually make sense to users
   - Clear troubleshooting steps when things go wrong
@@ -14,10 +14,14 @@ This template is a production-ready foundation focused on handling the most crit
   - Clear visual feedback for network and permission states
   - Helpful recovery flows when permissions are denied
 - **Built for Customization**:
-  - Built using shadcn/ui components for easy customization
+  - _Built using shadcn/ui_ components for easy customization
   - Modular architecture that can be extended for any use case whether you're building a telemedicine app, virtual classroom, or remote workspace
 
 Built on top of the reliable 100ms SDK, this template combines enterprise-grade infrastructure with carefully crafted user experiences to handle the trickiest parts of video conferencing apps.
+
+## Live Demo
+
+Check out the live demo at: [https://meet-demo.booleanfields.com](https://meet-demo.booleanfields.com/laf-bixl-dnx)
 
 ## Key Features
 
