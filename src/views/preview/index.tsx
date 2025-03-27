@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 
 import { AudioControls, VideoControls } from "@/components/hms/av-controls"
-import AutoplayBlockedModal from "@/components/hms/notifications/auto-play-blocked-modal"
+import Notifications from "@/components/hms/notifications"
 import ErrorLoadingAuthToken from "@/components/room-states/error-loading-auth-token"
 import LoadingAuthToken from "@/components/room-states/loading-auth-token"
 import RoomCodeInvalid from "@/components/room-states/room-code-invalid"
@@ -150,7 +150,7 @@ const Preview = () => {
         </div>
       </div>
       <PermissionGuideDialog ref={permissionsGuideDialogRef} />
-      <AutoplayBlockedModal />
+      <Notifications />
     </>
   )
 }
