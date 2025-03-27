@@ -1,8 +1,9 @@
 import { TPeerPosition } from "@/types"
 import { HMSPeer } from "@100mslive/react-sdk"
 
-import useDrawerMenuStore from "@/views/room/components/drawer-menu/drawer-menu-store"
 import { Avatar, AvatarFallback } from "@/components/ui/avatar"
+
+import useDrawerMenuStore from "@/views/room/components/drawer-menu/drawer-menu-store"
 
 export function MorePeersButtonTile({
   position,

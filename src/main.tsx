@@ -14,6 +14,7 @@ import RoomPage from "@/routes/room-page"
 
 import { Toaster } from "@/components/ui/toaster.tsx"
 import { TooltipProvider } from "@/components/ui/tooltip.tsx"
+
 import { ThemeProvider } from "@/components/theme-provider.tsx"
 
 const router = createBrowserRouter([

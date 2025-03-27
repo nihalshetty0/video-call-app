@@ -4,6 +4,7 @@ import { CopyIcon } from "@radix-ui/react-icons"
 import { ScrollArea } from "@radix-ui/react-scroll-area"
 
 import { copyToClipboard } from "@/lib/utils"
+
 import { Avatar, AvatarFallback } from "@/components/ui/avatar"
 import { Button } from "@/components/ui/button"
 import {

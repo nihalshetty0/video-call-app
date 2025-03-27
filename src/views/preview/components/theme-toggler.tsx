@@ -1,6 +1,7 @@
 import { Icon } from "@iconify/react/dist/iconify.js"
 
 import { Button } from "@/components/ui/button"
+
 import { useTheme } from "@/components/theme-provider"
 
 const ThemeToggler = () => {

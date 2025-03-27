@@ -6,6 +6,7 @@ import { Icon } from "@iconify/react"
 import useRoomPageState from "@/routes/room-page/room-page-store"
 
 import { playLocalPeerLeaveTune } from "@/lib/tunes"
+
 import { Button } from "@/components/ui/button"
 import { Drawer, DrawerContent, DrawerTrigger } from "@/components/ui/drawer"
 import {
@@ -14,6 +15,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip"
 import { useToast } from "@/components/ui/use-toast"
+
 import { AudioControls, VideoControls } from "@/components/hms/av-controls"
 import SettingsDialogMenu from "@/components/hms/settings-dialog-menu"
 import { useTheme } from "@/components/theme-provider"

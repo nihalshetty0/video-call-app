@@ -6,8 +6,9 @@ import {
   useHMSStore,
 } from "@100mslive/react-sdk"
 
-import useDrawerMenuStore from "@/views/room/components/drawer-menu/drawer-menu-store"
 import { useToast } from "@/components/ui/use-toast"
+
+import useDrawerMenuStore from "@/views/room/components/drawer-menu/drawer-menu-store"
 
 const ChatNotifications = () => {
   const notification = useHMSNotifications(HMSNotificationTypes.NEW_MESSAGE)
