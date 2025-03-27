@@ -1,9 +1,11 @@
 export const ROOM_STATE_TYPE = {
-  VALID: "VALID",
+  PREVIEW: "PREVIEW",
+  CALL: "CALL",
   LEFT_ROOM: "LEFT_ROOM",
   NETWORK_ERROR: "NETWORK_ERROR",
-  INVALID_CODE: "INVALID_CODE",
 }
+
+export const ISSUE_URL = import.meta.env.VITE_ISSUE_URL
 
 // ------- PEER LAYOUT CONSTANTS -------
 

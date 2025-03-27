@@ -7,7 +7,7 @@ interface TRoomPageState {
 }
 
 const useRoomPageState = create<TRoomPageState>((set) => ({
-  roomState: ROOM_STATE_TYPE.VALID,
+  roomState: ROOM_STATE_TYPE.PREVIEW,
   setRoomState: (state: string) => set({ roomState: state }),
 }))
 
