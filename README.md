@@ -49,6 +49,16 @@ https://github.com/user-attachments/assets/9c933972-a1dd-4c51-a4e9-f92599a0c957
 
 https://github.com/user-attachments/assets/9c1d1912-5b8b-4d0a-ade9-e16f934cb0af
 
+<details>
+  <summary>View all status screens</summary>
+  ![image](https://github.com/user-attachments/assets/26b97ce5-7118-4fdf-8c61-78c0f3adf3c0)
+  ![image](https://github.com/user-attachments/assets/3a59c9ed-64d8-47bc-849d-0d67f29ee4c1)
+  ![image](https://github.com/user-attachments/assets/49befcd9-6d77-4627-be5a-81549a445623)
+  ![image](https://github.com/user-attachments/assets/f721dfbb-6344-42d0-b361-f2378378088b)
+  ![image](https://github.com/user-attachments/assets/ed904442-6690-4236-9e00-a14135ec72bb)
+  ![image](https://github.com/user-attachments/assets/27d2e79a-e123-40ae-becb-67d8b2469c2c)
+</details>
+
 ## Quick Start
 
 Clone the repository
