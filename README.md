@@ -41,8 +41,7 @@ Built on top of the reliable 100ms SDK, this template combines enterprise-grade 
 
 ### 🎥 Audio and Video Permission Flow
 
-https://github.com/user-attachments/assets/f52324fd-6403-462e-9e89-33c2d2556748
-
+https://github.com/user-attachments/assets/13189225-9b88-4d9f-8e18-b36089daa8f9
 
 ### 🎥 Camera and Audio Settings
 
@@ -50,7 +49,7 @@ https://github.com/user-attachments/assets/768a9e84-adae-41cc-8675-fabf9ddf05ec
 
 ### 🎥 Dynamic Tile Layout
 
-https://github.com/user-attachments/assets/5b372272-7b98-4875-9125-cc4fe35302c6
+https://github.com/user-attachments/assets/c30f052c-857a-451f-9bc2-c2240b7d03c3
 
 ### 🎥 Responsive Design
 
