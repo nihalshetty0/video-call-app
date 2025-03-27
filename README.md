@@ -1,110 +1,85 @@
 # Video Call App Template
 
-This template is a production-ready foundation focused on handling the most critical and error-prone aspects of video conferencing apps. Heavily inspired by Google Meet's battle-tested UX patterns, this template pays special attention to common failure points like device permissions, network issues, and audio/video setup.
-
-## Why This Template?
-
-- **Battle-Tested UX Patterns**: Implements _Google Meet-inspired solutions_ for common video call frustrations
-- **Foolproof Device Handling**:
-  - Guided permission flows that actually make sense to users
-  - Clear troubleshooting steps when things go wrong
-  - Intuitive device testing and switching
-- **User-First Error Prevention**:
-  - Pre-join device testing to catch issues early
-  - Clear visual feedback for network and permission states
-  - Helpful recovery flows when permissions are denied
-- **Built for Customization**:
-  - _Built using shadcn/ui_ components for easy customization
-  - Modular architecture that can be extended for any use case whether you're building a telemedicine app, virtual classroom, or remote workspace
-
-Built on top of the reliable 100ms SDK, this template combines enterprise-grade infrastructure with carefully crafted user experiences to handle the trickiest parts of video conferencing apps.
+A production-ready video conferencing template built with React, TypeScript, and 100ms SDK. Implements Google Meet-inspired UX patterns for handling device permissions, network issues, and audio/video setup.
 
 ## Live Demo
 
-Check out the live demo at: [https://meet-demo.booleanfields.com](https://meet-demo.booleanfields.com/laf-bixl-dnx)
+[https://meet-demo.booleanfields.com](https://meet-demo.booleanfields.com/laf-bixl-dnx)
 
-## Key Features
+## Core Features
 
-- **Video/Audio Controls**: Ready-to-use controls for managing video and audio.
-  - Robust permission handling with visual guides
-  - Pre-join audio/video device testing
-  - Seamless device switching
-  - Audio level indicators
-- **Chat System**: Integrated chat functionality.
-- **Device Settings**: Customizable device settings.
-- **Theme Switching**: Supports light and dark themes.
-- **Responsive Design**: Fully responsive for all devices.
-- **Dynamic Tile Layout**: Automatically adjusts participant tiles for optimal viewing, similar to Google Meet.
-- **Audio Cues**: Provides audio notifications for new messages and participant entry/exit, enhancing user awareness like Google Meet.
-- **Status & Error Handling**:
-  - Transparent network status indicators
-  - Visual feedback during connection events
-  - Graceful error handling with user-friendly messages
-
-![image](https://github.com/user-attachments/assets/e7a819a4-a667-45e0-8158-0830f4b56cf4)
-
-# Demo Videos
-
-### 🎥 Audio and Video Permission Flow
-
-https://github.com/user-attachments/assets/13189225-9b88-4d9f-8e18-b36089daa8f9
-
-### 🎥 Camera and Audio Settings
-
-https://github.com/user-attachments/assets/768a9e84-adae-41cc-8675-fabf9ddf05ec
-
-### 🎥 Dynamic Tile Layout
-
-https://github.com/user-attachments/assets/c30f052c-857a-451f-9bc2-c2240b7d03c3
-
-### 🎥 Responsive Design
-
-https://github.com/user-attachments/assets/9c933972-a1dd-4c51-a4e9-f92599a0c957
-
-### 🎥 Real-time Messaging
-
-https://github.com/user-attachments/assets/9c1d1912-5b8b-4d0a-ade9-e16f934cb0af
+- Dynamic video tile layouts
+- In-built chat
+- Audio/video controls with device switching
+- Audio level indicators and audio cues for new messages and participants join/leave
+- Responsive design with light/dark theme support
+- Pre-join device testing and permission handling
+- Visual feedback during connection events
+- User-friendly error handling
 
 ## Tech Stack
 
-- **100ms SDK**: Built on top of 100ms's robust SDK (@100mslive/react-sdk), providing enterprise-grade video infrastructure
-- **React + TypeScript**: Leveraging the power of React and TypeScript for a robust development experience.
-- **Vite**: Fast development with Vite.
-- **TailwindCSS**: Modern styling with TailwindCSS.
-- **Radix UI + shadcn/ui**: Combines Radix UI's accessible primitives with shadcn/ui's beautiful, customizable components for a polished user interface.
+- 100ms SDK (@100mslive/react-sdk)
+- React + TypeScript
+- Vite
+- TailwindCSS
+- Radix UI + shadcn/ui
+- Zustand for state management
+- React Query
 
-## Developer-Friendly
+## Demo Videos
 
-- **Clean Code Organization**: Well-structured and easy to navigate.
-- **Type Safety**: Ensures type safety with TypeScript.
-- **Component-Based Architecture**: Modular and reusable components.
-- **State Management**: Well-structured state management using zustand.
+### Audio and Video Permission Flow
 
-## Getting Started
+https://github.com/user-attachments/assets/13189225-9b88-4d9f-8e18-b36089daa8f9
 
-1. **Clone the Repository**:
+### Camera and Audio Settings
 
-   ```bash
-   git clone https://github.com/nihalshetty0/video-call-app.git
-   ```
+https://github.com/user-attachments/assets/768a9e84-adae-41cc-8675-fabf9ddf05ec
 
-2. **Install Dependencies**:
+### Dynamic Tile Layout
 
-   ```bash
-   pnpm install
-   ```
+https://github.com/user-attachments/assets/c30f052c-857a-451f-9bc2-c2240b7d03c3
 
-3. **Run the Development Server**:
+### Responsive Design
 
-   ```bash
-   pnpm run dev
-   ```
+https://github.com/user-attachments/assets/9c933972-a1dd-4c51-a4e9-f92599a0c957
 
-4. **Build for Production**:
-   ```bash
-   pnpm run build
-   ```
+### Real-time Messaging
+
+https://github.com/user-attachments/assets/9c1d1912-5b8b-4d0a-ade9-e16f934cb0af
+
+## Error Handling & Status Screens
+
+|||
+|:---:|:---:|
+|<img src="https://github.com/user-attachments/assets/26b97ce5-7118-4fdf-8c61-78c0f3adf3c0" alt="Loading screen" /><br>Loading screen|<img src="https://github.com/user-attachments/assets/3a59c9ed-64d8-47bc-849d-0d67f29ee4c1" alt="Autoplay error" /><br>Autoplay error|
+|<img src="https://github.com/user-attachments/assets/49befcd9-6d77-4627-be5a-81549a445623" alt="Device in use" /><br>Device in use|<img src="https://github.com/user-attachments/assets/f721dfbb-6344-42d0-b361-f2378378088b" alt="Call exit on network error" /><br>Call exit on network error|
+|<img src="https://github.com/user-attachments/assets/ed904442-6690-4236-9e00-a14135ec72bb" alt="Left room" /><br>Left room|<img src="https://github.com/user-attachments/assets/27d2e79a-e123-40ae-becb-67d8b2469c2c" alt="Meeting Code Screen" /><br>Meeting Code Validation|
+
+## Quick Start
+
+Clone the repository
+
+```bash
+# Install dependencies
+pnpm install
+
+# Run development server
+pnpm run dev
+
+# Build for production
+pnpm run build
+```
+
+## Why This Template?
+
+- Built-in UX patterns that address common video call challenges
+- Robust device and permission handling
+- User-friendly error prevention and recovery
+- Built for customization with shadcn/ui components
+- Enterprise-grade infrastructure with 100ms SDK
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+Contributions welcome! Please open an issue or submit a pull request.
