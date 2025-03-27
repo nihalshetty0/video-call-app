@@ -49,28 +49,13 @@ https://github.com/user-attachments/assets/9c933972-a1dd-4c51-a4e9-f92599a0c957
 
 https://github.com/user-attachments/assets/9c1d1912-5b8b-4d0a-ade9-e16f934cb0af
 
+## Error Handling & Status Screens
 
-| | |
+|||
 |:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/26b97ce5-7118-4fdf-8c61-78c0f3adf3c0" alt="Connection Lost Screen" />|<img src="https://github.com/user-attachments/assets/3a59c9ed-64d8-47bc-849d-0d67f29ee4c1" alt="Camera Permission Screen" />|
-|Connection Lost|Camera Permission|
-|<img src="https://github.com/user-attachments/assets/49befcd9-6d77-4627-be5a-81549a44562" alt="Loading Screen" />|<img src="https://github.com/user-attachments/assets/f721dfbb-6344-42d0-b361-f2378378088b" alt="Left Meeting Screen" />|
-|Loading State|Left Meeting|
-|<img src="https://github.com/user-attachments/assets/ed904442-6690-4236-9e00-a14135ec72bb" alt="Permission Error Screen" />|<img src="https://github.com/user-attachments/assets/27d2e79a-e123-40ae-becb-67d8b2469c2c" alt="Meeting Code Screen" />|
-|Permission Error|Meeting Code Validation|
-
-
-<details>
-  <summary>View all status screens</summary>
-
-<img src="https://github.com/user-attachments/assets/26b97ce5-7118-4fdf-8c61-78c0f3adf3c0" alt="Loading Screen" />
-<img src="https://github.com/user-attachments/assets/3a59c9ed-64d8-47bc-849d-0d67f29ee4c1" alt="Camera Permission Screen" />
-<img src="https://github.com/user-attachments/assets/49befcd9-6d77-4627-be5a-81549a445623" alt="Loading Screen" />
-<img src="https://github.com/user-attachments/assets/f721dfbb-6344-42d0-b361-f2378378088b" alt="Left Meeting Screen" />
-<img src="https://github.com/user-attachments/assets/ed904442-6690-4236-9e00-a14135ec72bb" alt="Permission Error Screen" />
-<img src="https://github.com/user-attachments/assets/27d2e79a-e123-40ae-becb-67d8b2469c2c" alt="Meeting Code Screen" />
-
-</details>
+|<img src="https://github.com/user-attachments/assets/26b97ce5-7118-4fdf-8c61-78c0f3adf3c0" alt="Loading screen" /><br>Loading screen|<img src="https://github.com/user-attachments/assets/3a59c9ed-64d8-47bc-849d-0d67f29ee4c1" alt="Autoplay error" /><br>Autoplay error|
+|<img src="https://github.com/user-attachments/assets/49befcd9-6d77-4627-be5a-81549a445623" alt="Device in use" /><br>Device in use|<img src="https://github.com/user-attachments/assets/f721dfbb-6344-42d0-b361-f2378378088b" alt="Call exit on network error" /><br>Call exit on network error|
+|<img src="https://github.com/user-attachments/assets/ed904442-6690-4236-9e00-a14135ec72bb" alt="Left room" /><br>Left room|<img src="https://github.com/user-attachments/assets/27d2e79a-e123-40ae-becb-67d8b2469c2c" alt="Meeting Code Screen" /><br>Meeting Code Validation|
 
 ## Quick Start
 
